@@ -1,6 +1,6 @@
 Address = 123.207.218.247
 Port = 655
-Subnet = 10.143.2.1/32
+Subnet = 10.143.2.30/32
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA5KYfIyGLKpjLZuzwYmoDM7Uj/ScaoOUnr0IRbIteiYmrlkLLqUZv
